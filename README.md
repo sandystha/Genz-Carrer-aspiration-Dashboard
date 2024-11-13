@@ -1,4 +1,4 @@
-  ![Alt text](manger.png)
+
 
 
 # Genz-Carrer-aspiration-Dashboard
@@ -8,6 +8,9 @@ Remote Working
 Daily Work Hours Willingness
 Minimum Expected Salary (First 3 Years)
 Minimum Expected Salary (After 5 Years)
+
+Dashboard of manager 
+ ![Alt text](manger.png)
 
 
 Question for Mission dashboard
