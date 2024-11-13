@@ -17,6 +17,8 @@ Question for Mission dashboard
 Mission Clarity in Company Evaluation
 Alignment of Company Mission and Actions
 Employee Preferences for Socially Impactful Companies
+![Alt text](mission2.png)
+![Alt text](Mission1.png)
 
 
 Key insights
