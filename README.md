@@ -1,4 +1,4 @@
-  ![Alt text](Screenshot 2024-11-10 222947.png)
+  ![Alt text](manger.png)
 
 
 # Genz-Carrer-aspiration-Dashboard
