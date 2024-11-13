@@ -2,21 +2,24 @@
 
 
 # Genz-Carrer-aspiration-Dashboard
-#Questions for Manager dashboard
-Working Under an Abusive Manager
-Remote Working
-Daily Work Hours Willingness
-Minimum Expected Salary (First 3 Years)
-Minimum Expected Salary (After 5 Years)
+#Questions-for-Manager-dashboard
+
+1.Working Under an Abusive Manager
+2.Remote Working
+3.Daily Work Hours Willingness
+4.Minimum Expected Salary (First 3 Years)
+5.Minimum Expected Salary (After 5 Years)
 
 Dashboard of manager 
  ![Alt text](manger.png)
 
 
 Question for Mission dashboard
-Mission Clarity in Company Evaluation
-Alignment of Company Mission and Actions
-Employee Preferences for Socially Impactful Companies
+
+1.Mission Clarity in Company Evaluation
+2.Alignment of Company Mission and Actions
+3.Employee Preferences for Socially Impactful Companies
+
 ![Alt text](mission2.png)
 ![Alt text](Mission1.png)
 
